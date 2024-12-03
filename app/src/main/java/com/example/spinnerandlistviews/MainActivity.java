@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             FirstNameTV.setText("");
             LastNameTV.setText("");
             dobTV.setText("");
-            phoneNumTV.setText(" ");
+            phoneNumTV.setText("");
         }
     }
 
